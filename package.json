@@ -1,6 +1,6 @@
 {
-  "name": "php-jwt",
-  "version": "2.3.0",
+  "name": "php-jwt2",
+  "version": "2.4.0",
   "description": "jwt",
   "scripts": {
     "build": "grunt"  
