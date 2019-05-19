@@ -1,0 +1,26 @@
+{
+  "name": "php-jwt-v1",
+  "version": "1.0.1",
+  "description": "jwt",
+  "scripts": {
+    "build": "grunt"  
+  },
+  "main": "dist/jwt.js",
+  "repository": {
+    "type": "git",
+    "url": "jwt"
+  },
+  "homepage": "jwt",
+  "keywords": [
+    "jwt"
+  ],
+  "author": "Chung Dasilva",
+  "bugs": {
+    "url": "jwt"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-uglify": "^2.2.0"
+  },
+  "dependencies": {}
+}
